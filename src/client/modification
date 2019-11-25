@@ -1,0 +1,27 @@
+close ( no need to modify )
+
+open ( no need to modify )
+
+is_open ( no need to modify )
+
+write (o)
+
+write (o)
+
+read  (o)
+
+readChunk
+
+getMetadata (o)
+
+remove (o)
+
+exists (no need to modify)
+
+list (no need to modify )
+
+rename
+
+
+
+../java/model -> Blockmetadata.java, Metadata.java
